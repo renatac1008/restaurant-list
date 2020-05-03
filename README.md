@@ -1,9 +1,9 @@
 # My restaurant List
----
 
-![Minion](https://i.imgur.com/CcwtZsf.png)
 
 A simple web application for gourmet
+![Minion](https://i.imgur.com/CcwtZsf.png)
+
 
 ### Features
 + list restaurants from restaurant.json
@@ -26,4 +26,4 @@ Execute application
 ```
 $ npm run dev
 ```
-browse [http://localhost:3000](http://localhost:3000) 
+Browse [http://localhost:3000](http://localhost:3000) 
